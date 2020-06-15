@@ -27,16 +27,16 @@ A4. No. I don't have any Playstation controllers to do this.
 	
 ## Default Controller Configuration
 
-| Button        | Hotkey           |
-| :-------------: |:-------------:|
+| Button | Hotkey |
+| :- | :- |
 | B | Main/Battle Mode Swap |
-| X | F1 |
-| A | F2 |
-| Y | F3 |
-| RB | F4 |
-| RT | F5 |
-| LB | F6 |
-| LT | F7 |
+| X | F1 (Battle) |
+| A | F2 (Battle) |
+| Y | F3 (Battle) & Ctrl (Main) |
+| RB | F4 (Battle) |
+| RT | F5 (Battle) |
+| LB | F6 (Battle) |
+| LT | F7 (Battle) |
 | Dpad Up | North |
 | Dpad Right | East |
 | Dpad Down | South |
