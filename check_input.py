@@ -11,4 +11,4 @@ def controller_code_and_state():
 
 # Startup
 if __name__ == "__main__":
-    controller_status()
+    controller_code_and_state()
