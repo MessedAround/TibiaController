@@ -27,21 +27,36 @@ A4. No. I don't have any Playstation controllers to do this.
 	
 ## Default Controller Configuration
 
-B			= Main/Battle Mode Swap
-X			= F1
-A			= F2
-Y			= F3 (Battle) & Ctrl (Main)
-RB			= F4 (Battle) & PgUp (Main)
-RT			= F5 (Battle) & PgDn (Main)
-LB			= F6 (Battle) & Home (Main)
-LT			= F7 (Battle) & End  (Main)
+B               = Main/Battle Mode Swap
+
+X               = F1
+
+A		= F2
+
+Y		= F3 (Battle) & Ctrl (Main)
+
+RB		= F4 (Battle) & PgUp (Main)
+
+RT		= F5 (Battle) & PgDn (Main)
+
+LB		= F6 (Battle) & Home (Main)
+
+LT		= F7 (Battle) & End  (Main)
+
 Dpad Up		= Walk North
+
 Dpad Right	= Walk East
+
 Dpad Down	= Walk South
+
 Dpad Left	= Walk West
+
 Right Stick	= Nothing
+
 Left Stick	= Nothing (tibia_controller_dpad) & Walk North, East, South and West (tibia_controller_stick.py)
+
 Start		= Spacebar (target creature)
+
 Select		= Left Click (loot creature)
 
 ## Using TibiaController
