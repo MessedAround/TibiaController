@@ -2,7 +2,7 @@
 
 Play [Tibia](https://www.tibia.com/) using a controller! Great for relaxed beastiary farming or levelling a new character while sitting on your couch.
 
-This is modified version of zooyl's TibiaController python script found on his [github](https://github.com/zooyl/TibiaController) page.
+This is modified version of zooyl's TibiaController python script found on his [github](https://github.com/zooyl/TibiaController/) page.
 
 ## FAQ
 
@@ -63,5 +63,5 @@ A4. No. I don't have any Playstation controllers to do this.
 
 ## Credits
 
-zooyl
+[zooyl](https://github.com/zooyl/)
  - Original TibiaController python script
