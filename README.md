@@ -41,10 +41,11 @@ A4. No. I don't have any Playstation controllers to do this.
 | Dpad Right | East |
 | Dpad Down | South |
 | Dpad Left | West |
-| Right Stick | Nothing |
-| Left Stick | Nothing |
+| Right Stick |  |
+| Left Stick |  |
 | Start | Spacebar |
 | Select | Left Click |
+| Guide |  |
 
 ## Using TibiaController
 
