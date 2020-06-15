@@ -1,8 +1,8 @@
 # TibiaController
 
-Play Tibia (https://www.tibia.com/) using a controller! Great for relaxed beastiary farming or levelling a new character while sitting on your couch.
+Play [Tibia](https://www.tibia.com/) using a controller! Great for relaxed beastiary farming or levelling a new character while sitting on your couch.
 
-This is modified version of zooyl's TibiaController python script found on his github page: https://github.com/zooyl/TibiaController
+This is modified version of zooyl's TibiaController python script found on his [github](https://github.com/zooyl/TibiaController) page.
 
 ## FAQ
 
@@ -20,44 +20,31 @@ A4. No. I don't have any Playstation controllers to do this.
 
 ## Installation
 
-1. Install python (https://www.python.org/downloads/)
+1. Install the latest version of [python](https://www.python.org/downloads/)
 	- Make sure you add python to PATH (tickbox at bottom of installer before clicking 'install now')
 2. Run install_requirements.bat to install all the required packages from requirements.txt
 	- Optionally you can install it manually.
 	
 ## Default Controller Configuration
 
-B               = Main/Battle Mode Swap
-
-X               = F1
-
-A		= F2
-
-Y		= F3 (Battle) & Ctrl (Main)
-
-RB		= F4 (Battle) & PgUp (Main)
-
-RT		= F5 (Battle) & PgDn (Main)
-
-LB		= F6 (Battle) & Home (Main)
-
-LT		= F7 (Battle) & End  (Main)
-
-Dpad Up		= Walk North
-
-Dpad Right	= Walk East
-
-Dpad Down	= Walk South
-
-Dpad Left	= Walk West
-
-Right Stick	= Nothing
-
-Left Stick	= Nothing (tibia_controller_dpad) & Walk North, East, South and West (tibia_controller_stick.py)
-
-Start		= Spacebar (target creature)
-
-Select		= Left Click (loot creature)
+| Button        | Hotkey           |
+| :-------------: |:-------------:|
+| B | Main/Battle Mode Swap |
+| X | F1 |
+| A | F2 |
+| Y | F3 |
+| RB | F4 |
+| RT | F5 |
+| LB | F6 |
+| LT | F7 |
+| Dpad Up | North |
+| Dpad Right | East |
+| Dpad Down | South |
+| Dpad Left | West |
+| Right Stick | Nothing |
+| Left Stick | Nothing |
+| Start | Spacebar |
+| Select | Left Click |
 
 ## Using TibiaController
 
