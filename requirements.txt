@@ -1,0 +1,9 @@
+inputs
+Pillow
+PyAutoGUI
+PyGetWindow
+PyMsgBox
+PyRect
+PyScreeze
+python3-xlib
+PyTweening
