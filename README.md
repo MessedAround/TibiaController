@@ -50,8 +50,8 @@ A4. No. I don't have any Playstation controllers to do this.
 ## Using TibiaController
 
 1. Run command prompt as administrator.
-	You can do this by pressing start and typing cmd then right-click on it and click on run as administrator.
-		OR
+	You can do this by pressing start and typing cmd then right-click on it and click on run as administrator.<br />
+		&emsp;&emsp;OR<br />
 	You can press start and type cmd then shift + left click on it.
 2. Navigate to the folder location in command prompt.
 	i.e. cd C:\Users\Username\Documents\TibiaController\
