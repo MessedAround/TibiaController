@@ -12,7 +12,7 @@ A1. No, it does not interfere with BattlEye.
 Q2. Will I get banned using this?<br />
 A2. No, as stated in A1, it does not interfere with BattlEye at all so there is no reason for you to get banned. However, to cover myself I take no responsibility should you happen to get banned using it.
 
-Q3. What controllers are support?<br />
+Q3. What controllers are supported?<br />
 A3. Xbox 360 and Xbox One
 
 Q4. Will you add Playstation controller support?<br />
